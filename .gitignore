@@ -1,0 +1,17 @@
+# 가상환경
+venv/
+.venv/
+
+# PyCharm 설정
+.idea/
+
+# 컴파일 결과
+__pycache__/
+*.py[cod]
+
+# OS 파일
+.DS_Store
+Thumbs.db
+
+# 로그 파일
+*.log

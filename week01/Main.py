@@ -1,5 +1,5 @@
 import json
-from func_structure import getNaverSearch, getPostData   # ✅ 함수 가져오기
+from func_structure import getNaverSearch, getPostData   # 함수 가져오는 import 문
 
 def main():
     node = 'news'

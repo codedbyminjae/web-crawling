@@ -16,6 +16,3 @@ Thumbs.db
 # 로그 파일
 *.log
 
-# 크롤링 결과 JSON 파일 제외
-*.json
-

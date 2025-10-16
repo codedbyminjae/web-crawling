@@ -19,3 +19,7 @@ Thumbs.db
 # 엑셀 파일 제외
 *.xlsx
 *.xls
+
+# CSV 및 .names 파일 무시
+*.csv
+*.names

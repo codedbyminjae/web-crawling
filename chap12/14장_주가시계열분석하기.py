@@ -93,3 +93,4 @@ plt.plot(stock_test_vis['Predictions'], label='Prediction')
 plt.legend()
 plt.title(f'{name} ({start_day} ~ {end_day})')
 plt.show()
+# 실습 완료

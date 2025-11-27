@@ -23,6 +23,11 @@ Thumbs.db
 # CSV 및 .names 파일 무시
 *.csv
 *.names
-.ipynb
-.jpg
-.bmp
+*.ipynb
+
+# 이미지 파일 제외
+*.png
+*.jpg
+*.jpeg
+*.jfif
+*.bmp
